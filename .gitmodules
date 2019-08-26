@@ -1,6 +1,6 @@
 [submodule "layers/+lang/coq"]
 	path = layers/+lang/coq
-	url = https://github.com/olivierverdier/spacemacs-coq
+	url = https://github.com/tomtomjhj/spacemacs-coq
 [submodule "lisp/PG"]
 	path = lisp/PG
 	url = https://github.com/ProofGeneral/PG
